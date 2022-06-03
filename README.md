@@ -62,7 +62,7 @@ Reflita e depois enumere os objetivos que quer alcançar e aplique no seu projet
   * [CSS Selectors - MDN](https://developer.mozilla.org/pt_BR/docs/Web/CSS/CSS_Selectors)
 </p></details>
 
-### Web APIs
+### Browser
 
 - [ ] **Uso de seletores de DOM**
 
@@ -203,7 +203,7 @@ Não esquecemos que cada uma tem experiências de vida e motivações diferentes
 personalidades diferentes, aprende no seu ritmo etc. Fingir que tudo isso não existe
 e pedir a todas que aprendam e concluam de forma idêntica seria um absurdo. Propomos
 que você trabalhe em marcos ou etapas incrementais de acordo com suas possibilidades.
-**Não esperamos que todas completem os 3 marcos**.
+**Não esperamos que completem os 3 marcos**.
 
 Não trabalhe como se fosse uma fábrica fazendo toooooooooooooooooodo o HTML e CSS
 de todas as telas que você imaginou para depois começar com tooooooooooooooooooooodo
@@ -217,6 +217,12 @@ A metáfora a seguir pode ajudá-la a entender melhor a ideia.
 ![AGILE](https://miro.medium.com/max/1400/1*qINsG4WH_BDN-viMJUH6Ng.png)
 
 Essas etapas, do skate ao carro, são o que chamaremos de "marcos".
+
+Estes marcos são pequenas tarefas a serem implementadas,
+assim, você evita trabalhar como uma fábrica, fazendo HMTL, CSS e Javascript separadamente.
+Nesse formato, você consegue ir aprendendo um pouco de cada coisa,
+e agregando valor para seu usuário ao término de cada marco. 
+
 Você é livre para seguir esta recomendação ou trabalhar como preferir. Pode ser
 útil se você está apenas começando a aprender Desenvolvimento Web - você decide.
 
@@ -240,7 +246,6 @@ alternativa estava correta.
 <details>
 
 #### Somente o "esqueleto" estático
-
 - Duas perguntas com as suas respectivas alternativas de respostas em forma de
   _radio buttons_ (🔘)
 - Um botão para “Responder e ver resultados”.
@@ -248,6 +253,8 @@ alternativa estava correta.
 #### O que você aprenderá
 
 Como construir uma página básica HTML com elementos de formulário.
+
+![Microprojeto-1A](./trivia-1a.gif)
 
 </details>
 
@@ -271,6 +278,8 @@ _click_ e fazer algo quando isso acontecer, usando _onclick_ ou _addEventListene
 - Identificar os elementos HTML que estão no navegador e obter seus valores
   e/ou estados.
 
+![Microprojeto-1B](./trivia-1b.gif)
+
 </details>
 
 <summary>Sugestão de microprojeto C</summary>
@@ -286,6 +295,8 @@ selecionados é mostrado quando se tem o _click_ no botão “Responder e ver re
 
 - Detectar eventos no navegador (os clicks do usuário).
 - Identificar os elementos HTML que existem no navegador e obter seus valores/estados.
+
+![Microprojeto-1C](./trivia-1c.gif)
 
 </details>
 
