@@ -416,9 +416,10 @@ como [Replit](https://replit.com/) ou [CodeSandbox](https://codesandbox.io).
 
 #### Entrega
 
-- Todo o seu projeto deve ser entregue em um link funcional. Pode ser o link
-  do seu repositório github ou o link do seu projeto online [Replit](https://repl.it) ou [CodeSandbox](https://codesandbox.io/)
+- A entrega será feita via form (a ser disponibilizado) através de um link funcional do seu projeto. Pode ser o link
+  do seu **repositório github ou o link do seu projeto online** [Replit](https://repl.it) ou [CodeSandbox](https://codesandbox.io/)
 
+![URL](./entrega-links.gif)
 
 ## 8. Considerações técnicas
 
