@@ -369,7 +369,7 @@ ao longo do caminho? Quais? Por quê?
 #### Se você está dando os primeiros passos no desenvolvimento Web
 
 Talvez você prefira trabalhar com uma ferramenta de edição de código on-line,
-como [Codepen](https://codepen.io/pen/) ou [Replit](https://replit.com/).
+como [Replit](https://replit.com/) ou [CodeSandbox](https://codesandbox.io).
 
 #### Se você já tem alguma experiência e vai trabalhar com um repositório de código
 
@@ -417,8 +417,8 @@ como [Codepen](https://codepen.io/pen/) ou [Replit](https://replit.com/).
 #### Entrega
 
 - Todo o seu projeto deve ser entregue em um link funcional. Pode ser o link
-  do seu repositório github ou o link do seu projeto online [Replit](https://repl.it),
-  [Codepen](https://codepen.io/pen/) ou [CodeSandbox](https://codesandbox.io/)
+  do seu repositório github ou o link do seu projeto online [Replit](https://repl.it) ou [CodeSandbox](https://codesandbox.io/)
+
 
 ## 8. Considerações técnicas
 
@@ -428,7 +428,7 @@ JavaScript (Javascript puro)](https://medium.com/laboratoria-how-to/vanillajs-vs
 
 Este _boilerplate_ (modelo de projeto no repositório GitHub) contém três arquivos.
 Você é livre para adicionar ou remover arquivos/pastas.
-**Se você usar um editor de código on-line como Codepen ou Replit, ignore este ponto.**
+**Se você usar um editor de código on-line como Replit ou CodeSandbox, ignore este ponto.**
 
 ### `src/index.html`
 
