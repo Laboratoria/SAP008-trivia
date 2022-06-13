@@ -397,9 +397,9 @@ como [Replit](https://replit.com/) ou [CodeSandbox](https://codesandbox.io).
 
 #### Desenvolvimento Front-end
 
-- [Tipos de dados](https://lms.laboratoria.la/cohorts/spl-2021-09-prebootcamp-js-spl007/topics/intro-pt-content/04-js-basics/01-values-variables-and-types)
-- [Declaração de variáveis](https://lms.laboratoria.la/cohorts/spl-2021-09-prebootcamp-js-spl007/topics/intro-pt-content/04-js-basics/02-variables)
-- [Controle de fluxo](https://lms.laboratoria.la/cohorts/spl-2021-09-prebootcamp-js-spl007/topics/intro-pt-content/05-js-flow-control/01-opening)
+- [Tipos de dados](https://curriculum.laboratoria.la/pt/topics/javascript/01-basics/01-values-variables-and-types)
+- [Declaração de variáveis](https://curriculum.laboratoria.la/pt/topics/javascript/01-basics/02-variables)
+- [Controle de fluxo](https://curriculum.laboratoria.la/pt/topics/javascript/02-flow-control)
 
 #### Ferramentas
 
